@@ -1,0 +1,23 @@
+{
+  "name": "createpokemoncardlambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobKnaack/createPokemonCardLambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobKnaack/createPokemonCardLambda/issues"
+  },
+  "homepage": "https://github.com/JacobKnaack/createPokemonCardLambda#readme",
+  "dependencies": {
+    "dynamoose": "^3.2.1"
+  }
+}
